@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PR2_Aufgabe0.iml" filepath="$PROJECT_DIR$/.idea/PR2_Aufgabe0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wiederholung/Wiederholung.iml" filepath="$PROJECT_DIR$/Wiederholung/Wiederholung.iml" />
+    </modules>
+  </component>
+</project>
